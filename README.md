@@ -1,5 +1,5 @@
 # La Maison Jungle
-# Learning React with OpenClassrooms
+## Learning React with OpenClassrooms
 
 This is a little exercice from the React OpenClassrooms course. It cover the basics of React, you can learn how to create your first component and how component interact with each others.
 
